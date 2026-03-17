@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "This Charming Man",
+  "base_artist": "The Smiths",
+  "createdAt": "2026-03-17T15:33:28.259391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/01_This_Charming_Man_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "Stars",
+      "has_synced": true,
+      "path": "select/02_This_Charming_Man_Stars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/03_This_Charming_Man_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Charming Man (New York Vocal)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/04_This_Charming_Man_(New_York_Vocal)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "0598 - The Smiths - This Charming Man",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/05_0598_-_The_Smiths_-_This_Charming_Man_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "Smiths",
+      "has_synced": true,
+      "path": "select/06_This_Charming_Man_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "The smiths",
+      "has_synced": true,
+      "path": "select/07_This_Charming_Man_The_smiths.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/08_This_Charming_Man_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "Smiths, The",
+      "has_synced": true,
+      "path": "select/09_This_Charming_Man_Smiths,_The.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Charming Man (John Peel Session 9/14/83)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/10_This_Charming_Man_(John_Peel_Session_9_14_83)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Charming Man (John Peel Session 14/09/83)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/11_This_Charming_Man_(John_Peel_Session_14_09_83)_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Charming Man",
+      "artist": "Death Cab for Cutie",
+      "has_synced": true,
+      "path": "select/12_This_Charming_Man_Death_Cab_for_Cutie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Charming Man (2011 Remaster)",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/13_This_Charming_Man_(2011_Remaster)_The_Smiths.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Charming Man",
+      "artist": "The Smiths",
+      "has_synced": false,
+      "path": "select/pl_01_This_Charming_Man_The_Smiths.txt"
+    }
+  ]
+}
